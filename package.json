@@ -1,6 +1,6 @@
 {
-  "homepage": "https://LesediSebetola.github.io/react-ecommerce",
-  "name": "react-ecommerce",
+  "homepage": "https://LesediSebetola.github.io/ecommerce",
+  "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
