@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.907fb6f7.css",
-    "main.js": "/ecommerce/static/js/main.aaa48ecf.js",
+    "main.css": "/ecommerce/static/css/main.ef1203f9.css",
+    "main.js": "/ecommerce/static/js/main.cba2a04d.js",
     "static/js/453.2d40735f.chunk.js": "/ecommerce/static/js/453.2d40735f.chunk.js",
     "static/media/product_ (23).webp": "/ecommerce/static/media/product_ (23).1287f46d9dc8933e7a8f.webp",
     "static/media/product_ (28).webp": "/ecommerce/static/media/product_ (28).d31b6e1dcad436a3597a.webp",
@@ -30,7 +30,6 @@
     "static/media/product_ (33).webp": "/ecommerce/static/media/product_ (33).e0623622129326515ae0.webp",
     "static/media/product_ (17).webp": "/ecommerce/static/media/product_ (17).b7f179b72d22df03b89d.webp",
     "static/media/product_ (7).webp": "/ecommerce/static/media/product_ (7).ded7cd90cb8ca95ebe3c.webp",
-    "static/media/hero_backgound.jpg": "/ecommerce/static/media/hero_backgound.f1f304753aea3b0a74ea.jpg",
     "static/media/product_ (35).webp": "/ecommerce/static/media/product_ (35).d434675d3525d8171590.webp",
     "static/media/product_ (12).webp": "/ecommerce/static/media/product_ (12).a9d795d744bd6bb1b7aa.webp",
     "static/media/product_ (10).webp": "/ecommerce/static/media/product_ (10).db3491380f1238d0fdd2.webp",
@@ -43,12 +42,12 @@
     "static/media/product_ (21).webp": "/ecommerce/static/media/product_ (21).21e597d2f7ff63a5628f.webp",
     "static/media/product_ (2).webp": "/ecommerce/static/media/product_ (2).10cfcc97011fd7903c97.webp",
     "index.html": "/ecommerce/index.html",
-    "main.907fb6f7.css.map": "/ecommerce/static/css/main.907fb6f7.css.map",
-    "main.aaa48ecf.js.map": "/ecommerce/static/js/main.aaa48ecf.js.map",
+    "main.ef1203f9.css.map": "/ecommerce/static/css/main.ef1203f9.css.map",
+    "main.cba2a04d.js.map": "/ecommerce/static/js/main.cba2a04d.js.map",
     "453.2d40735f.chunk.js.map": "/ecommerce/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.907fb6f7.css",
-    "static/js/main.aaa48ecf.js"
+    "static/css/main.ef1203f9.css",
+    "static/js/main.cba2a04d.js"
   ]
 }
