@@ -1,13 +1,14 @@
 .hero {
     height: 100vh;
-    background: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url('../Assets/hero_backgound.jpg');
+    background-size: cover;
 }
 
 .hero-left p {
-    color: black;
+    color: rgb(8, 41, 102);
     font-size: 100px;
     font-weight: 700; 
 }
@@ -34,9 +35,13 @@
 
 
 @media (max-width:500px) {
+    .hero {
+        background: url('../Assets/151374266-800-1067.webp');
+        background-size: cover;
+    }
+    
     .hero-left p {
-        color: black;
-        font-size: 70px;
+        font-size: 50px;
         font-weight: 700; 
     }
 }

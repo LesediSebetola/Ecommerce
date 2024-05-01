@@ -4,7 +4,7 @@
 
 .cartitems hr {
     height: 3px;
-    background: black;
+    background: rgb(250, 248, 248);
     border: 0;
 }
 
@@ -51,6 +51,18 @@
     display: flex;
     justify-content: space-between;
     padding: 12px 0px;
+}
+
+.cartitems-total h1 {
+    color: rgb(157, 162, 163);
+}
+
+p {
+    color: rgb(157, 162, 163);
+}
+
+h3 {
+    color: rgb(157, 162, 163);
 }
 
 

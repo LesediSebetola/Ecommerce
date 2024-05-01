@@ -16,14 +16,14 @@
 }
 
 .item-price-new {
-    color: black;
+    color: rgb(250, 249, 249);
     font-size: 18px;
     font-weight: 600;
     margin-left: 34px;
 }
 
 .item-price-old {
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 500;
     text-decoration: line-through;

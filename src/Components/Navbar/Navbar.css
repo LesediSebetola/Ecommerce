@@ -2,41 +2,26 @@
 /*Navigation bar*/
 .navbar {
     display: flex;
-    position: sticky;
     justify-content: space-between;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color:  rgb(8, 41, 102);
 }
 
 .nav-logo {
     display: flex;
     align-items: center;
     gap: 10px;
+    color: rgb(30, 179, 216);
 }
 
 .nav-logo p {
-    color: black;
+    color: rgb(30, 179, 216);
     font-size: 38px;
     font-weight: 600;
-}
-
-.nav-menu {
-    display: flex;
-    align-items: center;
-    list-style: none;
-    gap: 50px;
-    color: black;
-    font-size: 20px;
-    font-weight: 500;
-}
-
-.nav-menu li {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
-    cursor: pointer;
 }
 
 .nav-login-cart {
@@ -49,17 +34,18 @@
     width: 57px;
     height: 30px;
     outline: none;
-    border: 1px solid black;
+    border: 1px solid rgb(30, 179, 216);
     border-radius: 75px;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 500;
-    background: white;
+    background: rgb(30, 179, 216);
     cursor: pointer;
 }
 
 .nav-login-cart button:active {
-    background: gray;
+    background: rgb(8, 41, 102);
+    border: 1px solid rgb(30, 179, 216);
 }
 
 .nav-cart-count {

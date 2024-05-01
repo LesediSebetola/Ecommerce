@@ -7,9 +7,7 @@ import { FaSquareXTwitter } from "react-icons/fa6"
 const Footer = () => {
   return (
     <div className='footer'>
-        <div className='footer-logo'>
-             
-        </div>
+        <div className='footer-bg'>
         <ul className='footer-links'>
             <li>Company</li>
             <li>Product</li>
@@ -17,16 +15,26 @@ const Footer = () => {
             <li>About</li>
             <li>Contact</li>
         </ul>
+        <div className='footer-links'>
+               <li>Features</li>
+               <li>Pricing</li>
+               <li>Affillate</li>
+               <li>Blog</li>
+               <li>Blog</li>
+           </div>
+          
         <div className='footer-social-icon'>
-            <div className='footer-icons-container'>
+            
                <FaInstagramSquare/>
-            </div>
-            <div className='footer-icons-container'>
+          
+            
                <FaFacebookSquare/>
-            </div>
-            <div className='footer-icons-container'>
+         
+        
                <FaSquareXTwitter/>
-            </div>
+        
+        
+        </div>
         </div>
         <div className='footer-copyright'>
             <hr />

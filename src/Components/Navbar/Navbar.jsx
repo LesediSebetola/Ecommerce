@@ -13,14 +13,12 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='nav-logo'>
-        <h3>LesD-SHOP</h3>
+        <h3 onClick={()=>{setMenu("shop")}}><Link to='/' style={{textDecoration: "none", color:"rgb(30, 179, 216)"}}>LesD-SHOP</Link>  </h3>
       </div>
-      <ul className='nav-menu'>
-        <li onClick={()=>{setMenu("shop")}}><Link to='/' style={{ textDecoration: 'none' }}>Home</Link><></></li>
-      </ul>
+     
       <div className='nav-login-cart'>
         <Link to='/login'><button>Login</button></Link>
-        <Link to='/cart'><FaShoppingCart className='cart-icon' /></Link> 
+        <Link to='/cart' style={{textDecoration: "none", color:"rgb(30, 179, 216)"}}><FaShoppingCart className='cart-icon' /></Link> 
         <div className="nav-cart-count">{getTotalCartItems()}</div>
       </div>
     </div>

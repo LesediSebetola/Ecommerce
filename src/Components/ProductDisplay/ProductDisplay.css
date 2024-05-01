@@ -13,6 +13,10 @@
     gap: 16px;
 }
 
+.productdisplay-right-description {
+    color: gray;
+}
+
 .productdisplay-img-list img {
     height: 163px;
 }
@@ -29,7 +33,7 @@
 }
 
 .productdisplay-right h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(126, 125, 125);
     font-size: 40px;
     font-weight: 500;
 }
@@ -65,11 +69,12 @@
 }
 
 .productdisplay-right-sizes div {
-    padding: 18px 24px;
-    background: rgb(139, 137, 137);
+    padding: 10px 15px;
+    background: white;
     border: 1px solid rgb(104, 101, 101);
-    border-radius: 3px;
+    border-radius: 4px;
     cursor: pointer;
+    color: black;
 }
 
 .productdisplay-right button {
@@ -78,10 +83,11 @@
     font-size: 16px;
     font-weight: 600;
     color: white;
-    background: rgb(248, 5, 5);
+    background: rgb(30, 179, 216);
     border: none;
     outline: none;
     cursor: pointer;
+    margin-bottom: 50px;
 }
 
 .productdisplay-right-category {
