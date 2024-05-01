@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='nav-logo'>
-        <h3 onClick={()=>{setMenu("shop")}}><Link to='/' style={{textDecoration: "none", color:"rgb(30, 179, 216)"}}>LesD-SHOP</Link>  </h3>
+        <h3 onClick={()=>{setMenu("shop")}}><Link to='/ecommerce' style={{textDecoration: "none", color:"rgb(30, 179, 216)"}}>LesD-SHOP</Link>  </h3>
       </div>
      
       <div className='nav-login-cart'>

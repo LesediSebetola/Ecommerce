@@ -3,7 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../Assets/hero_backgound.jpg');
+}
+
+.background-img {
+    background: url('../Assets/151365374-800-1067.webp');
+    filter: brightness(30%);
     background-size: cover;
 }
 
@@ -11,6 +15,7 @@
     color: rgb(8, 41, 102);
     font-size: 100px;
     font-weight: 700; 
+    filter: brightness(100%);
 }
 
 .hero-latest-btn {

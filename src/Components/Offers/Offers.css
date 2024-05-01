@@ -6,7 +6,11 @@
     margin-bottom: 150px;
     justify-content: center;
     align-items: center;
+}
+
+.background-img {
     background: url('../Assets/151365374-800-1067.webp');
+    filter: brightness(30%);
     background-size: cover;
 }
 
@@ -19,13 +23,13 @@
 }
 
 .offers-left h1 {
-    color: rgb(30, 179, 216);
+    color: rgb(7, 7, 7);
     font-size: 70px;
-    font-weight: 600;
+    font-weight: 1000;
 }
 
 .offers-left p {
-    color: rgb(117, 115, 115);
+    color: rgb(30, 179, 216);
     font-size: 22px;
     font-weight: 600;
 }

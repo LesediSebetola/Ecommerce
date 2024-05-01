@@ -5,7 +5,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div className='hero background-img'>
         <div className="hero-left">
           <div>
             <div>
