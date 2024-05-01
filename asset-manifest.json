@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.4c71ebac.css",
-    "main.js": "/ecommerce/static/js/main.ca85becf.js",
+    "main.css": "/ecommerce/static/css/main.907fb6f7.css",
+    "main.js": "/ecommerce/static/js/main.aaa48ecf.js",
     "static/js/453.2d40735f.chunk.js": "/ecommerce/static/js/453.2d40735f.chunk.js",
     "static/media/product_ (23).webp": "/ecommerce/static/media/product_ (23).1287f46d9dc8933e7a8f.webp",
     "static/media/product_ (28).webp": "/ecommerce/static/media/product_ (28).d31b6e1dcad436a3597a.webp",
@@ -16,6 +16,7 @@
     "static/media/product_ (22).webp": "/ecommerce/static/media/product_ (22).4a33dd01ca32ae7677d9.webp",
     "static/media/product_ (20).webp": "/ecommerce/static/media/product_ (20).14a2714dbfd9d534e9b0.webp",
     "static/media/product_ (15).webp": "/ecommerce/static/media/product_ (15).98a1f7bc55f4b79bda61.webp",
+    "static/media/151374266-800-1067.webp": "/ecommerce/static/media/151374266-800-1067.10d56df4c333958ea0cf.webp",
     "static/media/product_ (4).webp": "/ecommerce/static/media/product_ (4).c3fde37b8569cd7895b8.webp",
     "static/media/product_ (13).webp": "/ecommerce/static/media/product_ (13).41056199ce7a60b22c66.webp",
     "static/media/product_ (24).webp": "/ecommerce/static/media/product_ (24).d3cce787c5b4087c3785.webp",
@@ -29,23 +30,25 @@
     "static/media/product_ (33).webp": "/ecommerce/static/media/product_ (33).e0623622129326515ae0.webp",
     "static/media/product_ (17).webp": "/ecommerce/static/media/product_ (17).b7f179b72d22df03b89d.webp",
     "static/media/product_ (7).webp": "/ecommerce/static/media/product_ (7).ded7cd90cb8ca95ebe3c.webp",
+    "static/media/hero_backgound.jpg": "/ecommerce/static/media/hero_backgound.f1f304753aea3b0a74ea.jpg",
     "static/media/product_ (35).webp": "/ecommerce/static/media/product_ (35).d434675d3525d8171590.webp",
     "static/media/product_ (12).webp": "/ecommerce/static/media/product_ (12).a9d795d744bd6bb1b7aa.webp",
     "static/media/product_ (10).webp": "/ecommerce/static/media/product_ (10).db3491380f1238d0fdd2.webp",
     "static/media/product_ (14).webp": "/ecommerce/static/media/product_ (14).0aa844dbabf0c3a632fb.webp",
     "static/media/product_ (3).webp": "/ecommerce/static/media/product_ (3).47621839f49a8d3c862b.webp",
     "static/media/product_ (16).webp": "/ecommerce/static/media/product_ (16).35f4aea30ea3bbd5b9d1.webp",
+    "static/media/151365374-800-1067.webp": "/ecommerce/static/media/151365374-800-1067.2dafe28d88a62ec0cbcf.webp",
     "static/media/product_ (34).webp": "/ecommerce/static/media/product_ (34).747c471a7f10fab4703c.webp",
     "static/media/product_ (36).webp": "/ecommerce/static/media/product_ (36).49b2550f8f476f370bf1.webp",
     "static/media/product_ (21).webp": "/ecommerce/static/media/product_ (21).21e597d2f7ff63a5628f.webp",
     "static/media/product_ (2).webp": "/ecommerce/static/media/product_ (2).10cfcc97011fd7903c97.webp",
     "index.html": "/ecommerce/index.html",
-    "main.4c71ebac.css.map": "/ecommerce/static/css/main.4c71ebac.css.map",
-    "main.ca85becf.js.map": "/ecommerce/static/js/main.ca85becf.js.map",
+    "main.907fb6f7.css.map": "/ecommerce/static/css/main.907fb6f7.css.map",
+    "main.aaa48ecf.js.map": "/ecommerce/static/js/main.aaa48ecf.js.map",
     "453.2d40735f.chunk.js.map": "/ecommerce/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c71ebac.css",
-    "static/js/main.ca85becf.js"
+    "static/css/main.907fb6f7.css",
+    "static/js/main.aaa48ecf.js"
   ]
 }
