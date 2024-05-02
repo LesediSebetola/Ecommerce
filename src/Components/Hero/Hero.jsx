@@ -1,6 +1,5 @@
 import React from 'react'
 import './Hero.css'
-import { FaArrowRight } from "react-icons/fa";
 
 
 const Hero = () => {

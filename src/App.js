@@ -6,6 +6,7 @@ import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import LoginSighup from './Pages/LoginSighup';
 import Footer from './Components/Footer/Footer';
+import ScrollToTop from './Pages/ScrollToTop';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <div className="App">
         
         <BrowserRouter>
+        <ScrollToTop/>
          <Navbar/>
          <Routes>
           <Route path="/ecommerce" Component={Shop}/>
